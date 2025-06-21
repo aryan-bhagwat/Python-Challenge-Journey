@@ -12,4 +12,13 @@ Then print a message with those values using f-strings.
 - Variables
 - f-string formatting
 
-✅ Challenge completed.
+## Day 2 – Type Conversion & Arithmetic
+
+**Challenge:**  
+Take bill amount and number of people as input, calculate each person's share using basic math and type conversion.
+
+**Learned:**  
+- float(), int(), round()
+- Arithmetic operators
+- f-string formatting
+
