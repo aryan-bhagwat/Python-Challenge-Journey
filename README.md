@@ -12,6 +12,7 @@ Then print a message with those values using f-strings.
 - Variables
 - f-string formatting
 
+
 ## Day 2 – Type Conversion & Arithmetic
 
 **Challenge:**  
@@ -22,3 +23,12 @@ Take bill amount and number of people as input, calculate each person's share us
 - Arithmetic operators
 - f-string formatting
 
+
+## Day 3 – String Indexing & Slicing
+
+**Challenge:**  
+Take input from the user and perform string operations like length, first/last character, slicing, and reversing.
+
+**Learned:**  
+- `len()`, slicing syntax `[start:stop]`, negative indexing
+- Reverse strings with `[::-1]`
