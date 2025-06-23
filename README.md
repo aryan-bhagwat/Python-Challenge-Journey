@@ -32,3 +32,13 @@ Take input from the user and perform string operations like length, first/last c
 **Learned:**  
 - `len()`, slicing syntax `[start:stop]`, negative indexing
 - Reverse strings with `[::-1]`
+
+
+## Day 4 – List Operations
+
+**Challenge:**  
+Create a list, append user inputs, and display sorted results.
+
+**Learned:**
+- `append()`, indexing (`list[0]`)
+- `sorted()`, loops and user input
