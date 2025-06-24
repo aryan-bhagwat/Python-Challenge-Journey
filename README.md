@@ -42,3 +42,13 @@ Create a list, append user inputs, and display sorted results.
 **Learned:**
 - `append()`, indexing (`list[0]`)
 - `sorted()`, loops and user input
+
+## Day 5 – Dictionary Basics
+
+**Challenge:**  
+Take user info and store it in a dictionary, then display the info cleanly.
+
+**Learned:**
+- Creating and updating a dictionary
+- Looping with `.items()`
+- String formatting
