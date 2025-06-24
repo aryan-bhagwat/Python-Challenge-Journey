@@ -52,3 +52,13 @@ Take user info and store it in a dictionary, then display the info cleanly.
 - Creating and updating a dictionary
 - Looping with `.items()`
 - String formatting
+
+## Day 6 – Looping with Conditionals
+
+**Challenge:**  
+Take 5 user-input numbers and print whether each is even or odd.
+
+**Learned:**
+- Looping over lists
+- `if-else` inside `for` loops
+- Using `%` operator
