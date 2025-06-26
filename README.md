@@ -1,6 +1,7 @@
 # Python-Step-by-Step-Challenge-Roadmap
 ✅ Beginner → 🧠 Intermediate → 🚀 Advanced → 🧠 Expert
 
+
 ## Day 1 – Variables, Input/Output, Data Types
 
 **Challenge:**  
@@ -43,6 +44,7 @@ Create a list, append user inputs, and display sorted results.
 - `append()`, indexing (`list[0]`)
 - `sorted()`, loops and user input
 
+
 ## Day 5 – Dictionary Basics
 
 **Challenge:**  
@@ -53,6 +55,7 @@ Take user info and store it in a dictionary, then display the info cleanly.
 - Looping with `.items()`
 - String formatting
 
+
 ## Day 6 – Looping with Conditionals
 
 **Challenge:**  
@@ -62,6 +65,7 @@ Take 5 user-input numbers and print whether each is even or odd.
 - Looping over lists
 - `if-else` inside `for` loops
 - Using `%` operator
+
 
 ## Day 7 – Python Functions
 
