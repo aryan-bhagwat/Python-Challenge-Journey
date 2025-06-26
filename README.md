@@ -62,3 +62,13 @@ Take 5 user-input numbers and print whether each is even or odd.
 - Looping over lists
 - `if-else` inside `for` loops
 - Using `%` operator
+
+## Day 7 – Python Functions
+
+**Challenge:**  
+Define a simple function to greet a user by name.
+
+**Learned:**
+- Defining functions using `def`
+- Calling functions with arguments
+- Reusability of code
