@@ -76,3 +76,13 @@ Define a simple function to greet a user by name.
 - Defining functions using `def`
 - Calling functions with arguments
 - Reusability of code
+
+## Day 8 – Function with Return Value
+
+**Challenge:**  
+Define a function that takes a number and returns its square.
+
+**Learned:**
+- Using `return` in functions
+- Function logic vs output printing
+- Basic exponentiation with `**`
