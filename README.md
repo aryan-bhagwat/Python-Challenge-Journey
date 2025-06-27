@@ -87,3 +87,13 @@ Define a function that takes a number and returns its square.
 - Using `return` in functions
 - Function logic vs output printing
 - Basic exponentiation with `**`
+
+## Day 9 – BMI Calculator
+
+**Challenge:**  
+Build a function that takes weight and height and returns BMI.
+
+**Learned:**
+- Multiple function parameters
+- BMI logic using math
+- float input and rounding
