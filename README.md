@@ -88,6 +88,7 @@ Define a function that takes a number and returns its square.
 - Function logic vs output printing
 - Basic exponentiation with `**`
 
+
 ## Day 9 – BMI Calculator
 
 **Challenge:**  
