@@ -98,3 +98,13 @@ Build a function that takes weight and height and returns BMI.
 - Multiple function parameters
 - BMI logic using math
 - float input and rounding
+
+## Day 10 – Default Parameters
+
+**Challenge:**  
+Create a greeting function that uses a default name if no input is provided.
+
+**Learned:**
+- Default parameter values
+- `if-else` for blank input
+- `.strip()` for whitespace handling
