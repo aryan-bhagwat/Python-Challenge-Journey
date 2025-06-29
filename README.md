@@ -99,6 +99,7 @@ Build a function that takes weight and height and returns BMI.
 - BMI logic using math
 - float input and rounding
 
+
 ## Day 10 – Default Parameters
 
 **Challenge:**  
