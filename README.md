@@ -111,12 +111,11 @@ Create a greeting function that uses a default name if no input is provided.
 - `.strip()` for whitespace handling
 
 
-## Day 11 – List Operations
+## Day 11 – Variable Arguments with *args
 
-**Challenge:** Create a shopping list manager with add, remove, and display functions.
+**Challenge:** Create a function that accepts any number of numbers and returns their sum.
 
 **Learned:**
-- List methods: `append()`, `remove()`
-- `enumerate()` for numbered lists
-- `while` loop for menu systems
-- List membership testing with `in`
+- Use of `*args` to handle variable arguments
+- `sum()` built-in function
+- Flexible function definitions
