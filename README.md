@@ -109,3 +109,14 @@ Create a greeting function that uses a default name if no input is provided.
 - Default parameter values
 - `if-else` for blank input
 - `.strip()` for whitespace handling
+
+
+## Day 11 – List Operations
+
+**Challenge:** Create a shopping list manager with add, remove, and display functions.
+
+**Learned:**
+- List methods: `append()`, `remove()`
+- `enumerate()` for numbered lists
+- `while` loop for menu systems
+- List membership testing with `in`
