@@ -119,3 +119,13 @@ Create a greeting function that uses a default name if no input is provided.
 - Use of `*args` to handle variable arguments
 - `sum()` built-in function
 - Flexible function definitions
+
+
+## Day 12 – Keyword Arguments with **kwargs
+
+**Challenge:** Create a function that accepts keyword arguments and prints each key-value pair.
+
+**Learned:**
+- `**kwargs` handles variable keyword arguments
+- `.items()` method to iterate over dictionary-like kwargs
+- Great for dynamic argument handling
