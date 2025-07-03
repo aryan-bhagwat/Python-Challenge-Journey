@@ -129,3 +129,14 @@ Create a greeting function that uses a default name if no input is provided.
 - `**kwargs` handles variable keyword arguments
 - `.items()` method to iterate over dictionary-like kwargs
 - Great for dynamic argument handling
+
+
+## Day 13 – Flexible Function with Defaults, *args and **kwargs
+
+**Challenge:** Create a function that combines default arguments, `*args`, and `**kwargs`.
+
+**Learned:**
+- Default arguments for fallback behavior
+- `*args` to accept multiple names
+- `**kwargs` to handle keyword details
+- How to write flexible, reusable functions
