@@ -140,3 +140,13 @@ Create a greeting function that uses a default name if no input is provided.
 - `*args` to accept multiple names
 - `**kwargs` to handle keyword details
 - How to write flexible, reusable functions
+
+
+## Day 14 – Lambda Functions
+
+**Challenge:** Use a lambda function to calculate the square of a number.
+
+**Learned:**
+- Syntax for lambda: `lambda args: expression`
+- Great for small anonymous functions
+- Useful in functional programming (e.g., with `map`, `filter`)
