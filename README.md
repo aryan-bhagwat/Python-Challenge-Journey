@@ -150,3 +150,13 @@ Create a greeting function that uses a default name if no input is provided.
 - Syntax for lambda: `lambda args: expression`
 - Great for small anonymous functions
 - Useful in functional programming (e.g., with `map`, `filter`)
+
+
+## Day 15 – `map()` and Lambda
+
+**Challenge:** Use `map()` with a lambda to square a list of numbers.
+
+**Learned:**
+- `map()` applies a function to each item in an iterable
+- Lambda keeps function definitions concise
+- Efficient for functional-style programming
