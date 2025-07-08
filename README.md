@@ -160,3 +160,13 @@ Create a greeting function that uses a default name if no input is provided.
 - `map()` applies a function to each item in an iterable
 - Lambda keeps function definitions concise
 - Efficient for functional-style programming
+
+
+## Day 16 – `filter()` with Lambda
+
+**Challenge:** Use `filter()` with a lambda to extract even numbers from a list.
+
+**Learned:**
+- `filter()` helps conditionally select items from an iterable
+- Combined with lambda for inline condition logic
+- Great for preprocessing or data cleaning
