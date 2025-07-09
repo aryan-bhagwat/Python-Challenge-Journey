@@ -170,3 +170,13 @@ Create a greeting function that uses a default name if no input is provided.
 - `filter()` helps conditionally select items from an iterable
 - Combined with lambda for inline condition logic
 - Great for preprocessing or data cleaning
+
+
+## Day 17 – Using `zip()` Function
+
+**Challenge:** Pair two lists element-wise using `zip()`.
+
+**Learned:**
+- `zip()` combines multiple iterables into tuples
+- Stops at the shortest input length
+- Useful for parallel iteration or merging data
