@@ -180,3 +180,13 @@ Create a greeting function that uses a default name if no input is provided.
 - `zip()` combines multiple iterables into tuples
 - Stops at the shortest input length
 - Useful for parallel iteration or merging data
+
+
+## Day 18 – Using `enumerate()` in Loops
+
+**Challenge:** Loop through a list and show index alongside values using `enumerate()`.
+
+**Learned:**
+- `enumerate()` returns index and value
+- `start=1` to begin index from 1 instead of 0
+- Great for numbered lists and tracking positions
