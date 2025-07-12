@@ -190,3 +190,13 @@ Create a greeting function that uses a default name if no input is provided.
 - `enumerate()` returns index and value
 - `start=1` to begin index from 1 instead of 0
 - Great for numbered lists and tracking positions
+
+
+## Day 19 – Dictionary Comprehension
+
+**Challenge:** Create a dictionary where keys are numbers and values are their squares.
+
+**Learned:**
+- Use of dictionary comprehension: `{key: value for item in iterable}`
+- Clean, concise way to build dicts
+- Useful for transformation and mapping tasks
