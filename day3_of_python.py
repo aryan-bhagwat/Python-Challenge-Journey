@@ -25,3 +25,14 @@ print("The product is:", multiply) # This prints the result of the multiplicatio
 divide = int(input("Enter a number to divide by 10: ")) # This takes user input and converts it to an integer
 divide /= 10 # This divides the input number by 10
 print("The quotient is:", divide) # This prints the result of the division
+
+
+# Bonus Challenge : Simple Interest Calculator
+
+principal = float(input("Enter the principal amount (₹): ")) 
+rate = float(input("Enter the rate of interest (%): "))
+time = float(input("Enter the time (in years): "))
+
+simple_interest = (principal * rate * time) / 100 # This calculates the simple interest
+
+print(f"Your simple interest is ₹{simple_interest}") # This prints the calculated simple interest
