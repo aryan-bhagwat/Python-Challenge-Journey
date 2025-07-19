@@ -1,4 +1,4 @@
-# Day 3 - User Input, Output & Type Casting
+# Day 3 : User Input, Output & Type Casting
 
 ## Basic practice
 
