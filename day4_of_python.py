@@ -1,4 +1,4 @@
-# Day 4 - Python Operators - Arithmetic, Comparison, Logical
+# Day 4 : Python Operators - Arithmetic, Comparison, Logical
 
 x = int(input("Enter first number: "))
 y = int(input("Enter second number: "))
