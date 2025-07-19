@@ -1,4 +1,4 @@
-# Day 5 String Manipulation in Python
+# Day 5 : String Manipulation in Python
 
 text = "Hello, Aryan"
 
