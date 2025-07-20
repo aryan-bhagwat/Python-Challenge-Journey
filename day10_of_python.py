@@ -122,14 +122,14 @@ while count <= n:
     count += 1
 print(f"The sum of numbers from 1 to {n} using while loop is: {total}")
 
-# 3. Print all characters of a word using for char in word
+# 3(A). Print all characters of a word using for char in word
 
 word = input("Enter a word to print all characters: ")
 
 for char in word:
     print(char, end=" ")
 
-# 3. Print all characters of a word using while loop
+# 3(B). Print all characters of a word using while loop
 
 count = 0
 
