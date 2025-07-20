@@ -10,3 +10,4 @@
 ## Day 5 : Learned string manipulation, slicing, and string methods. Built username generator and string analyzer
 ## Day 6 : Practiced python lists - indexing, slicing, appending, removing. Built a to-do list and dynamic input program.
 ## Day 7 : Learned tuples (immutable lists) and sets (unique collections). Practiced slicing, adding/removing, set operations. Built a common students finder.
+## Day 8 : Learned Python dictionaries - key-value pairs, accessing, updating, and adding items. Built student record and contact book using add, update, and search operations.
