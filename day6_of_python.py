@@ -1,9 +1,10 @@
 # Day 6 : Lists in Python
 
+## Lists are used to store multiple items in a single variable. They are mutable, meaning you can change their content.
 
 movies = ["Sultan", "Dangal", "PK", "3 Idiots", "Chhichhore"]
 
-# Basic Practice
+### Basic Practice
 
 print(movies[0]) # First movie
 print(movies[-1]) # Last movie
@@ -16,7 +17,7 @@ print(movies.sort()) # Sort the list of movies
 print(movies) # Print the updated list of movies
 
 
-# Intermediate Practice
+### Intermediate Practice
 
 dishes = []
 dishes.append(input("Enter your 1st favourite dish: ")) # Add first dish
@@ -28,7 +29,7 @@ print(dishes.pop()) # Remove the last dish from the list
 print(dishes)  # Print the list of dishes
 
 
-# Bonus Challenge: To-Do List Manager
+### Bonus Challenge: To-Do List Manager
 
 tasks = []
 
