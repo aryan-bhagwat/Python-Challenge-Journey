@@ -13,3 +13,4 @@
 ## Day 8 : Learned Python dictionaries - key-value pairs, accessing, updating, and adding items. Built student record and contact book using add, update, and search operations.
 ## Day 9 : Practiced decision-making using if, elif, and else. Built BMI Calculator and Tax Bracket Finder using conditional logic.
 ## Day 10 : Practiced for and while loops with range, sum calculator, and number guessing game. Explored break, continue, and else statements in loops.
+## Day 11 : Mastered loop control with break, continue, and else. Built login attempt system and prime number checker using loop else.
