@@ -15,3 +15,4 @@
 ## Day 10 : Practiced for and while loops with range, sum calculator, and number guessing game. Explored break, continue, and else statements in loops.
 ## Day 11 : Mastered loop control with break, continue, and else. Built login attempt system and prime number checker using loop else.
 ## Day 12 : Learned Python Fuctions, parameters, return values. Built basic calculator and utility functions for math and logic.
+## Day 13 : Practiced variable scope – local vs global. Built visit tracker and explored global keyword usage.
