@@ -20,3 +20,4 @@
 ## Day 15 : Practiced list comprehensions – created lists with loops, filters, and conditional logic in one-liners.
 ## Day 16 : Learned dictionary comprehension with filters, conditions, and real-world use cases like counters and grade mapping.
 ## Day 17 : Learned about Python sets, their operations, and use cases like duplicate removal and word uniqueness.
+## Day 18 : Learned about Python tuples – properties, packing/unpacking, immutability, and best practices.
