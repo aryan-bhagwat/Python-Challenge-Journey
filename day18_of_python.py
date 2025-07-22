@@ -95,3 +95,20 @@ def sum_of_tuple():
     return sum(sum_tuple)
     
 print(f"Sum of 3 numbers is {sum_of_tuple()}")
+
+
+## Bonus Challenge : Student Info System
+
+student = ("Aryan", 22, "Data Science", 92.5)
+stu_name, stu_age, stu_field, stu_marks = student
+
+print(f"Student Name: {stu_name}")
+print(f"Age: {stu_age}")
+print(f"Field: {stu_field}")
+print(f"Marks: {stu_marks}")
+
+def grade():
+    if stu_marks > 90:
+        return "Grade: Excellent"
+    
+print(grade())
