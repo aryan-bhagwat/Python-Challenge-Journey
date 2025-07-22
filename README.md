@@ -18,3 +18,4 @@
 ## Day 13 : Practiced variable scope – local vs global. Built visit tracker and explored global keyword usage.
 ## Day 14 : Learned lambda functions with map, filter, and sorted. Built mini student filter and transformation tools.
 ## Day 15 : Practiced list comprehensions – created lists with loops, filters, and conditional logic in one-liners.
+## Day 16 : Learned dictionary comprehension with filters, conditions, and real-world use cases like counters and grade mapping.
