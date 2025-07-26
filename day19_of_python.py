@@ -63,3 +63,31 @@ def sum_digits(n):
         return 0
     return n % 10 + sum_digits(n // 10)
 print(sum_digits(745))
+
+# 2. Create a function profile(name, *hobbies, **details) and print them all.
+def profile(name, *hobbies, **details):
+    print(f"Name : {name}")
+    print("Hobbies: ")
+    for hobby in hobbies:
+        print(f"- {hobby}")
+    print("\nDetails: ")
+    for key, value in details.items():
+        print(f"{key} : {value}")
+profile("Aryan", "Cricket", "Badminton", "Video editing", Cricket = "I Play Cricket Daily", Badminton = "I played twice in a week", Video_editing = "Based on client needs")
+
+
+## Bonus Challenge : Recursive Palindrome Checker
+
+# Write a recursive function to check if a string is a palindrome: 
+# Hint: Use s[1:-1] and compare s[0] with s[-1]
+
+def is_palindrome(s):
+    if len(s) <= 1:
+        return True
+    if s[0] != s[-1]:
+        return False
+    return is_palindrome(s[1:-1])
+
+print(is_palindrome("cacoc"))  # False
+print(is_palindrome("madam"))  # True
+print(is_palindrome("python")) # False
