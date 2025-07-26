@@ -1,14 +1,65 @@
-# Day 19 : Advanced Function Techniques in Python
+# # Day 19 : Advanced Function Techniques in Python
 
-## 1. *args – Variable Number of Positional Arguments
-def add_all(*args):
-    return sum(args)
+# ## 1. *args – Variable Number of Positional Arguments
+# def add_all(*args):
+#     return sum(args)
 
-print(add_all(2,4,6,7))
+# print(add_all(2,4,6,7))
 
 
-# 2. **kwargs – Variable Number of Keyword Arguments
-def print_details(**kwargs):
+# # 2. **kwargs – Variable Number of Keyword Arguments
+# def print_details(**kwargs):
+#     for key, value in kwargs.items():
+#         print(f"{key} : {value}")
+    
+# print_details(Name = "Aryan", Age = 20, Course = "Python")
+
+# # 3. Combine *args and **kwargs
+# def student_info(*args, **kwargs):
+#     print("Args : ", args)
+#     print("Kwargs : ", kwargs)
+
+# student_info("Aryan", "India", Age = 20, Course = "Python")
+
+# # 4. Nested Functions
+# def outer():
+#     def inner():
+#         print("This is inner function")
+#     inner()
+#     print("This is outer function")
+# outer()
+
+# # 5. Recursion
+# def factorial(n):
+#     if n == 0:
+#         return 1
+#     return n * factorial(n - 1)
+
+# print(factorial(4))
+
+
+## Basic Practice
+
+# 1. Write a function multiply_all(*args) that returns the product of all arguments.
+def multiply_all(*args):
+    total = 1
+    for i in args:
+        total *= i
+    return total
+print(multiply_all(5,2,3))
+
+# 2. Write a function print_info(**kwargs) that prints key-value pairs from kwargs.
+def print_info(**kwargs):
     for key, value in kwargs.items():
-        print(f"{key}: {value}")
-print_details(name="Aryan", age=20, city="Navi Mumbai")
+        print(f"{key} : {value}")
+print_info(Name = "Aryan", Location = "India", Phone = "2345676545")
+
+
+## Intermediate Practice
+
+# 1. Write a recursive function sum_digits(n) that returns the sum of digits of a number.
+def sum_digits(n):
+    if n == 0:
+        return 0
+    return n % 10 + sum_digits(n // 10)
+print(sum_digits(745))
