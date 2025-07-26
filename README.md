@@ -40,3 +40,5 @@
 ## Day 17 : Learned about Python sets, their operations, and use cases like duplicate removal and word uniqueness.
 
 ## Day 18 : Learned about Python tuples – properties, packing/unpacking, immutability, and best practices.
+
+## Day 19 : Explored advanced functions using *args, **kwargs, nested functions, and recursion with practice tasks.
