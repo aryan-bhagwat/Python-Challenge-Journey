@@ -42,3 +42,5 @@
 ## Day 18 : Learned about Python tuples – properties, packing/unpacking, immutability, and best practices.
 
 ## Day 19 : Explored advanced functions using *args, **kwargs, nested functions, and recursion with practice tasks.
+
+## Day 20 : Learned file handling - read, write, append, with open, file modes. Created student logger app and file tasks.
