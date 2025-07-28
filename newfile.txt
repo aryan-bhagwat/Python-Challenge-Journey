@@ -1,6 +1,0 @@
-Hello, Aryan!
-Welcome to Day 20
-This is an extra line.
-Hi i am aryan
-i am doing python course
-if you want to learn you can refer my github repo
