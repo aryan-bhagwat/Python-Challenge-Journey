@@ -1,5 +1,6 @@
 # Day 22 : Working with JSON in Python
 
+
 ## 1. Importing the json Module:
 import json
 
