@@ -48,3 +48,5 @@
 ## Day 21 : Learned exception handling using try, except, else, finally, and raise. Built calculator and file reader tasks.
 
 ## Day 22: Learned how to work with JSON – dump/load data to/from strings and files. Practiced student data manager task.
+
+## Day 23: Built a JSON-based CLI Student Database Manager with add, view, search, and persistent storage.
